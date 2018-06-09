@@ -54,7 +54,7 @@ footer {
 	margin-bottom: 10px;
 }
 
-.modal-content button.close {
+.modal-content .close {
 	position: absolute;
 	top: 5px;
 	right: 5px;
